@@ -119,17 +119,9 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AzizOmri2/2" alt="Medium post 3"  />
-  </a>
-</div>
+<img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
+
 
 ###
 
