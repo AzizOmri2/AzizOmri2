@@ -22,11 +22,8 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
----
-
 <h4 align="left">Programming Languages :</h4>
 
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -40,11 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
 </div>
 
----
-
 <h4 align="left">Web Developpment & Frameworks :</h4>
-
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -70,11 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
----
-
 <h4 align="left">Cloud & DevOps Tools :</h4>
-
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -96,11 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
----
-
 <h4 align="left">Database Management :</h4>
-
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -114,15 +99,11 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 
----
-
 <div align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
   <img src="https://stats-github-readme.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AzizOmri2.AzizOmri2&"  />
@@ -131,8 +112,6 @@
 ---
 
 <h3 align="center">📫 Connect With Me</h3>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/med-aziz-omri/" target="_blank">
@@ -152,10 +131,6 @@
   </a>
 </div>
 
----
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=800020"  />
 </div>
-
----
