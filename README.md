@@ -7,11 +7,6 @@
 
 </p>
 
-<div align="center">
-  <img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://stats-github-readme.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
-</div>
-
 
 <br clear="both">
 
@@ -119,8 +114,10 @@
 
 ###
 
-<img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
+<div align="center">
+  <img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
   <img src="https://stats-github-readme.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
+</div>
 
 
 ###
