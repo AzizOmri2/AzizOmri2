@@ -6,28 +6,19 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=DevOps+%26+Cloud+Engineer;Full-Stack+Developer;CI%2FCD+Pipeline+Builder;" alt="Typing SVG" />
 
 </p>
-###
 
 <img align="right" height="200" src="https://mohamedazizomri.netlify.app/assets/images/avatars/avatar3.jpg"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzizOmri2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizOmri2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AzizOmri2/AzizOmri2/output/snake.svg" alt="Snake animation" />
 
-###
-
 <h3 align="center">🚀 About Me</h3>
-
-###
 
 <p align="left">I’m a passionate DevOps & Cloud Computing engineer with strong experience in building, deploying, and automating modern web applications.<br>I enjoy designing CI/CD pipelines, containerizing applications, improving system reliability, and bridging the gap between development and operations.<br><br>I have worked on real-world DevOps projects involving distributed pipelines, monitoring, security scanning, and full-stack applications.</p>
 
