@@ -8,8 +8,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=5&card_width=320&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://stats-github-readme.vercel.app/api?username=AzizOmri2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs?username=AzizOmri2&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 
